@@ -1,0 +1,5 @@
+server:
+  port: 8044
+
+baseConfig:
+  baseUrl: "http://test.youmishanjie.com/1.0.1/"
